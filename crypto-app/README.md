@@ -1,14 +1,13 @@
 ## CryptoEXchange
+A web app utilizing a 3rd party API (https://rapidapi.com/) to view live cyptocurrency Data, News, Charts, and Exchanges
 
-A Web app utilizing a 3rd party API (https://rapidapi.com/) to view live cyptocurrency data
-
-##Technologies Used
+## Technologies Used
 -HTML
 -CSS
 -JavaScript
 -ReactJS
 
-##Framework
+## Framework
 -Ant Design
 
 ## Project Status
