@@ -3,8 +3,11 @@ A web app utilizing a 3rd party API (https://rapidapi.com/) to view live cyptocu
 
 ## Technologies Used
 -HTML
+
 -CSS
+
 -JavaScript
+
 -ReactJS
 
 ## Framework
